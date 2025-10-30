@@ -3,9 +3,9 @@
 
 🙋 Welcome to the repository containing data from the International Year of the Salmon High Seas Expedition.
 
-🐟 DOI: [update when available]
+🐟 DOI: https://doi.org/10.23849/989-ee4
 
-🦐 Recommended citation: [update when available]
+🦐 Recommended citation: Pena, A., Costa, M., & Konik, M. (2025). Chlorophyll-a Data from the CCGS Sir John Franklin during the 2022 International Year of the Salmon Pan-Pacific Winter High Seas Expedition (Version v). North Pacific Anadromous Fish Commission. https://doi.org/10.23849/989-ee4
 
 👨🏽‍💻 The repository is structured as follows:
 
